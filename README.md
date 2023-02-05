@@ -15,12 +15,12 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [맘스터치 키오스크 & 관리자 페이지](https://github.com/프로젝트링크)  
+### 1. [맘스터치 키오스크 & 관리자 페이지](https://github.com/HeesuYeo/Momstouch_Kiosk)  
 >개발 기간: 2022.12.06 ~ 2023.01.13  
 >  
 >기술 스택:  
 >Java 17 / Oracle DataBase  
 >  
->[프로젝트 상세 설명](https://github.com/) 참고
+>[프로젝트 상세 설명](https://github.com/HeesuYeo/Momstouch_Kiosk) 참고
 
 ---
