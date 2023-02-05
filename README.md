@@ -17,7 +17,7 @@
 
 ## :pushpin: Projects
 ### 1. [맘스터치 키오스크 & 관리자 페이지](https://github.com/HeesuYeo/Momstouch_Kiosk)  
->개발 기간: 2022.12.06 ~ 2023.01.13  
+>개발 기간: 2022.12.06 ~ 2023.01.06  
 >  
 >기술 스택:  
 >Java 17 / Oracle DataBase  
