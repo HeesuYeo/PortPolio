@@ -25,3 +25,14 @@
 >[프로젝트 상세 설명](https://github.com/HeesuYeo/Momstouch_Kiosk) 참고
 
 ---
+
+### 2. [Concert Connect](https://github.com/HeesuYeo/Fin_project)  
+>개발 기간: 2022.12.06 ~ 2023.01.06  
+>  
+>기술 스택:  
+>Java 11 / Mysql DataBase
+>  
+>[프로젝트 상세 설명](https://github.com/HeesuYeo/Fin_project) 참고
+
+---
+
